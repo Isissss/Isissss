@@ -6,8 +6,8 @@ I'm Isis, a first-year Creative Media & Gaming Technologies student at the Unive
 - 🌱 I’m currently learning the basics of programming back-end and front-end!
 
 #### Connect with me 
-Reach out to me on Instagram: https://www.instagram.com/it.cmgt/
-Reach out to me on LinkedIn: https://www.linkedin.com/in/isis-ton-aa9448227/
+Reach out to me on Instagram: https://www.instagram.com/it.cmgt/ <br>
+Reach out to me on LinkedIn: https://www.linkedin.com/in/isis-ton-aa9448227/ <br>
 
 Some of my recent projects:
 - Humidity sensor Python project: https://github.com/Isissss/Data-SCI-02
