@@ -44,8 +44,5 @@ I'm Isis, a 20-year-old from the Netherlands. I'm a second-year Creative Media &
 - [PIXI.JS Educational minigame made for children in primary school](https://github.com/Isissss/CLE4/). Made with 3 other students for a school assignment. 
 - [Data Science for IOT](https://github.com/Isissss/Data-SCI-02). Python humidity & temperature sensor + web panel. 
  
-### Stats for github
-<img src="https://github-readme-stats.vercel.app/api?username=Isissss&count_private=true&show_icons=true&theme=github_dark"></img>
- 
 
  
