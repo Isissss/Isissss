@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Isis  
 
 ### About me
-I'm Isis, a 20-year-old female from the Netherlands. I'm a second-year Creative Media & Gaming Technologies student at the University of Applied Sciences in Rotterdam.
+I'm Isis, a 21-year-old female from the Netherlands. I'm a second-year Creative Media & Gaming Technologies student at the University of Applied Sciences in Rotterdam.
 
 ### Featured Projects
 - [MERN Stack Front-end for a Kanban board application](https://github.com/Isissss/MERN-Frontend) Front-end part for the Kanban application I made. Built with React and Bootstrap. Also includes the server code for the Socket.IO implementation. 
