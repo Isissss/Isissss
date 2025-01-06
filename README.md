@@ -4,12 +4,12 @@
 I'm Isis, a 21-year-old female from the Netherlands. I'm a second-year Creative Media & Gaming Technologies student at the University of Applied Sciences in Rotterdam.
 
 ### Featured Projects
-- [NPO Discord Bot](https://github.com/Isissss/npo-discord-bot) [+ NextJS Dashboard](https://github.com/Isissss/medialab-dashboard) My team of 3 other students and I collaborated with an NPO to develop a Discord bot with a dashboard, aimed at reaching young people aged 16 to 24 by researching their behavior and coming up with a solution.
+- [NPO Discord Bot](https://github.com/Isissss/npo-discord-bot) [+ NextJS Dashboard](https://github.com/Isissss/medialab-dashboard) Together with three other students, we collaborated with the Dutch NPO (National broadcaster) to develop a Discord bot with a dashboard to spread content quickly and easily, aimed at reaching young people aged 16 to 24.
 - [MERN Stack Front-end for a Kanban board application](https://github.com/Isissss/MERN-Frontend) Front-end part for the Kanban application I made. Built with React and Bootstrap. Also includes the server code for the Socket.IO implementation. 
 - [MERN Stack Back-end for a Kanban board application](https://github.com/Isissss/MERN-backend) An API built with Node, Express and MongoDB for a front-end. Includes JWT implementation for an authentication system.  
-- [Laravel Suggestion App](https://github.com/Isissss/Laravel-Suggestion-App) A suggestion app built with Laravel (PHP framework), blade and Vite for the front-end.  
-- [Tool for webshop-owners to improve accessibility on their webshop](https://github.com/Isissss/AccessibilityAID). A tool created to raise awareness about accessibility and provide tips and tricks to help them get started to improve their webshop. This project was made for the Dutch [Accessibility](https://www.accessibility.nl/) Foundation and was built with 2 other students. 
-- [PIXI.JS Educational minigame made for children in secondary school to learn about the Dutch "Waterschappen"](https://github.com/Isissss/CLE4/). Made with 4 other students for a school assignment about the Sustainable Development Goals. 
+- [Laravel Suggestion Forum](https://github.com/Isissss/Laravel-Suggestion-App) A suggestion app built with Laravel (PHP framework), blade and Vite for the front-end.  
+- [Tool for webshop-owners to improve webshop accessibility](https://github.com/Isissss/AccessibilityAID). A tool created to raise awareness about accessibility and provide tips and tricks to help them get started to improve their webshop. This project was made for the Dutch [Accessibility](https://www.accessibility.nl/) Foundation and was built with 2 other students. 
+- [PIXI.JS Educational minigame made for children in secondary school to learn about the Dutch "waterschappen"](https://github.com/Isissss/CLE4/). Made with 4 other students for a school assignment about the Sustainable Development Goals. 
  
  
 ### Languages & Frameworks
