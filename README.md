@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Isis  
 
 ### About me
-I'm Isis, a 21-year-old female from the Netherlands. I'm a second-year Creative Media & Gaming Technologies student at the University of Applied Sciences in Rotterdam.
+I'm Isis, a 21-year-old female from the Netherlands. I'm a fourth-year Creative Media & Gaming Technologies student at the University of Applied Sciences in Rotterdam.
 
 ### Featured Projects
 - [NPO Discord Bot](https://github.com/Isissss/npo-discord-bot) [+ NextJS Dashboard](https://github.com/Isissss/medialab-dashboard) Together with three other students, we collaborated with the Dutch NPO (National broadcaster) to develop a Discord bot with a dashboard to spread content quickly and easily, aimed at reaching young people aged 16 to 24.
@@ -23,7 +23,6 @@ I'm Isis, a 21-year-old female from the Netherlands. I'm a second-year Creative 
 <h6> Frontend Development </h6>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) 
-![Next.JS](https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=next.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
@@ -36,6 +35,7 @@ I'm Isis, a 21-year-old female from the Netherlands. I'm a second-year Creative 
 ![Apache](https://img.shields.io/badge/APACHE-D22128.svg?&style=flat-square&logo=apache&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.JS](https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=next.js&logoColor=white)
 
 <h6> Databases </h6> 
 
